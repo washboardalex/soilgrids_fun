@@ -40,4 +40,4 @@ A layman's interpretation of this licence is as follows: "This licence lets othe
 
 # Performance 
 
-...
+... If  they state performance goals can go here too
